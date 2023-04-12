@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vedant Shukla
 - 👀 I’m interested in SDE
-- 🌱 I’m currently learning c++ , Python.
+- 🌱 I’m currently learning c++ , Python , java.
 - 📫 Linkein = @Veadnt5...
 
 <!---
