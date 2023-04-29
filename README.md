@@ -52,11 +52,12 @@
       <img src="https://profile-counter.glitch.me/{Vedant285}/count.svg" alt="VisitorCount">
     </p>
 </p>
+
 ### 🔗 Connect with me
 
-
 <div align="center">
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant5)
+ 
+
 [![instagram](https://img.shields.io/badge/instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ho_rus__)
 
 </div>
